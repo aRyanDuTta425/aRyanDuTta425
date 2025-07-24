@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔷 [FinDocAI – Financial Document Analyzer](https://github.com/aryandutta/findocai) • [Live](https://findocai.vercel.app/)  
+### 🔷 [FinDocAI – Financial Document Analyzer](https://github.com/aRyanDuTta425/FINDOCAIWEB) • [Live](https://findocai.vercel.app/)  
 **Next.js, PostgreSQL, Groq API, Cloudinary, JWT**
 
 - 🧠 AI-powered tool for analyzing invoices, bank statements, and tax docs.
@@ -38,7 +38,7 @@
 
 ---
 
-### 🟢 [Lok Awaaz – Civic Issue Tracker](https://github.com/aryandutta/lok-awaaz) • [Live](https://lokawazweb.vercel.app/)  
+### 🟢 [Lok Awaaz – Civic Issue Tracker](https://github.com/aRyanDuTta425/LOKAWAZV1) • [Live](https://lokawazweb.vercel.app/)  
 **React, Node.js, PostgreSQL, Leaflet, JWT**
 
 - 📍 Mapped **100+ civic complaints** using Leaflet with live geolocation + clustering.
