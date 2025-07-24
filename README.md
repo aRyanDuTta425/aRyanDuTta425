@@ -3,10 +3,7 @@
   🚀 B.Tech CSE @ DTU | 🧠 AI + LLM Dev | 💻 MERN & React Native | 🔍 DSA | 🏁 Hackathon Finalist
 </p>
 
-<p align="center">
-  🚀 AI Engineer • 📱 React Native • 🧠 LLMs + Next.js • 🎓 DTU CSE • 🏆 Hackathon Finalist • 🔍 DSA Explorer
-</p>
-
+ 
 
 ---
 
