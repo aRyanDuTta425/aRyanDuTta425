@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=450&height=40&lines=AI-powered+Developer+%7C+DTU+CSE;React+Native+%7C+Next.js+%7C+PostgreSQL;Hackathon+Finalist+%7C+Open+Source+Contributor;DSA+Explorer+%7C+Full-Stack+Builder" />
+  🚀 AI Engineer • 📱 React Native • 🧠 LLMs + Next.js • 🎓 DTU CSE • 🏆 Hackathon Finalist • 🔍 DSA Explorer
 </p>
 
 
