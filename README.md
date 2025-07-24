@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+AI-powered+tools+with+impact...;Next.js+%7C+React+Native+%7C+PostgreSQL+%7C+LLMs+%7C+Cloudflare+Workers;Hackathon+Builder+%7C+Open+Source+Contributor+%7C+DSA+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=450&height=40&lines=AI-powered+Developer+%7C+DTU+CSE;React+Native+%7C+Next.js+%7C+PostgreSQL;Hackathon+Finalist+%7C+Open+Source+Contributor;DSA+Explorer+%7C+Full-Stack+Builder" />
 </p>
+
 
 ---
 
@@ -23,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,express,ts,js,cpp,py,postgres,mongodb,cloudflare,prisma,tailwind,firebase,vercel,postman,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,cpp,py,postgres,mongodb,cloudflare,prisma,tailwind,firebase,vercel,postman,git,github,vscode" />
 </p>
 
 ---
