@@ -58,7 +58,7 @@
 
 ---
 
-### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** • *Live*  
+### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** 
 **TypeScript, React, React Native, Node.js, PostgreSQL, WebSockets**
 
 - 📱 Built a **React Native mobile app** for customers to join queues and receive live turn updates.
