@@ -58,6 +58,27 @@
 
 ---
 
+### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** • *Live*  
+**TypeScript, Node.js, React, PostgreSQL, WebSockets**
+
+- 📲 Real-time digital queue system replacing physical lines in clinics, banks, and service centers.
+- 🔢 Built a **concurrency-safe token allocation system** ensuring correct ordering under parallel requests.
+- 📡 Enabled **instant turn updates** using WebSockets with polling fallback for unreliable networks.
+- ⏱️ Reduced waiting uncertainty by **60%** through live queue status and near-turn notifications.
+
+---
+
+### 🔷 **[CineScope AI – Intelligent Movie Discovery](https://github.com/aRyanDuTta425/CineScope-AI-V3)** • *Google Hackathon Project*  
+**React, Node.js, Express, MongoDB Atlas Vector Search, Google Gemini AI**
+
+- 🎬 AI-powered movie discovery using **natural language queries** (e.g., “movies like The Matrix”).
+- 🔍 Implemented **semantic vector search** with MongoDB Atlas for accurate, context-aware recommendations.
+- 📊 Built an **interactive analytics dashboard** visualizing genre distribution, IMDb ratings, and release trends.
+- 🧠 Generated **AI-driven insights and recommendations** using Google Gemini for enhanced movie exploration.
+- 📱 Designed a **responsive, mobile-friendly UI** with Chart.js and modern React patterns.
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
