@@ -58,13 +58,14 @@
 
 ---
 
-### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** •  
-**TypeScript, Node.js, React, PostgreSQL, WebSockets**
+### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** • *Live*  
+**TypeScript, React, React Native, Node.js, PostgreSQL, WebSockets**
 
-- 📲 Real-time digital queue system replacing physical lines in clinics, banks, and service centers.
-- 🔢 Built a **concurrency-safe token allocation system** ensuring correct ordering under parallel requests.
-- 📡 Enabled **instant turn updates** using WebSockets with polling fallback for unreliable networks.
-- ⏱️ Reduced waiting uncertainty by **60%** through live queue status and near-turn notifications.
+- 📱 Built a **React Native mobile app** for customers to join queues and receive live turn updates.
+- 🧑‍⚕️ Developed a **web-based staff dashboard (React)** for token control and patient flow management.
+- 🖥️ Implemented a **real-time TV/monitor display** showing live queue status for waiting areas.
+- 🔢 Designed a **concurrency-safe token allocation system** ensuring correct ordering under parallel requests.
+- 📡 Enabled **instant real-time updates** using WebSockets with polling fallback for unreliable networks.
 
 ---
 
