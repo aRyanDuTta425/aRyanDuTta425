@@ -58,7 +58,7 @@
 
 ---
 
-### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** • *Live*  
+### 🔷 **[QueueSafe – Smart Digital Queue Management](https://github.com/aRyanDuTta425/QueueSafe)** •  
 **TypeScript, Node.js, React, PostgreSQL, WebSockets**
 
 - 📲 Real-time digital queue system replacing physical lines in clinics, banks, and service centers.
@@ -68,7 +68,7 @@
 
 ---
 
-### 🔷 **[CineScope AI – Intelligent Movie Discovery](https://github.com/aRyanDuTta425/CineScope-AI-V3)** • *Google Hackathon Project*  
+### 🔷 **[CineScope AI – Intelligent Movie Discovery](https://github.com/aRyanDuTta425/CineScope-AI-V3)** 
 **React, Node.js, Express, MongoDB Atlas Vector Search, Google Gemini AI**
 
 - 🎬 AI-powered movie discovery using **natural language queries** (e.g., “movies like The Matrix”).
