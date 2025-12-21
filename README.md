@@ -47,7 +47,17 @@
 - 🔐 Built scalable backend APIs with Express and **JWT-based auth** for secure access.
 
 ---
+### 🌊 [OpenWater India – Real-Time Water Quality Analytics Platform](https://github.com/aRyanDuTta425/OpenWater-India) • [Live](https://frontend-indol-two-19.vercel.app/)  
+**React, TypeScript, Node.js, PostgreSQL, Headless Chromium, Web Scraping**
+- 🌐 Built a frontend-heavy analytics platform to visualize real CPCB RTWQMS government water-quality data without public APIs.
+- 🕸️ Engineered a resilient scraper to extract data from nested open Shadow DOM and mixed DOM trees.
+- ⏱️ Captured rotating sensor readings (5–8 sec UI cycles) and aligned them with hourly-updated ground truth data.
+- 🗃️ Designed a normalized time-series data model for multi-station, multi-parameter analytics.
+- 📊 Built interactive dashboards with charts, filters, and station comparisons while handling large datasets efficiently.
+- 🔁 Implemented background workers with scheduled polling, retries, and fault tolerance for reliable ingestion.
+- ⚡  Optimized frontend performance using memoization, derived state, and virtualization at scale
 
+---
 ### 🟡 [Intellicense – AI-powered Digital Rights Compliance Tool](https://github.com/aRyanDuTta425/Intellicense)  
 **React, PostgreSQL, TypeScript, Cloudflare Workers, Prisma, Zod**
 
